@@ -19,7 +19,7 @@ Intelligent reminder, intelligent voice, intelligent notification, intelligent I
 ## 😄思科呼叫中心、Avaya呼叫中心，国产平替；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、坐席辅助、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## 📫 How to reach us（截止2025.06.23，FreeAiCallReminder还在迭代ing）:
+## 📫 How to reach us（截止2025.06.29，FreeAiCallReminder还在迭代ing）:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
 - 官方WeChat03:easyaicc
